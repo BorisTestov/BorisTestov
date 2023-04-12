@@ -1,6 +1,6 @@
 Hi and welcome to my GitHub! 
 
-My name is Boris, I'm a software engineer with Bachelor's degree and a bunch years of experience in programming and teamleading. You can found more info about me on [my site](the-boris.com). 
+My name is Boris, I'm a software engineer with Bachelor's degree and a bunch years of experience in programming and teamleading. You can found more info about me on [my site](https://the-boris.com/). 
 
 # Table of contents
 
