@@ -13,7 +13,6 @@ My name is Boris, I'm a software engineer with Bachelor's degree and a bunch yea
 - [task_generator (**Python**)](https://github.com/BorisTestov/task_generator)
 
 ## Test tasks
-- [praktikum_reviewer_test_task (_fork_, **Python**)](https://github.com/BorisTestov/praktikum_reviewer_test_task)
 - [signature_test_task (**C++**, **CMake**)](https://github.com/BorisTestov/signature_test_task)
 
 ## Docker
