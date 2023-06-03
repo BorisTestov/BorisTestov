@@ -9,6 +9,7 @@ My name is Boris, I'm a Software engineer with bachelor's degree and years of ex
 - [Personal site sources (**HTML**, **CSS**, **JS**)](https://github.com/BorisTestov/BorisTestov.github.io)
 
 ## Personal projects
+- [duplicate_finder_python (**Python**, **Qt**, **Github Actions**)](https://github.com/BorisTestov/duplicate_finder_python)
 - [duplicate_finder (**C++**, **CMake**, **Doxygen**)](https://github.com/BorisTestov/duplicate_finder)
 - [task_generator (**Python**)](https://github.com/BorisTestov/task_generator)
 
