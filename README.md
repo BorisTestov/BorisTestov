@@ -11,7 +11,6 @@ My name is Boris, I'm a Software engineer with bachelor's degree and years of ex
 ## Personal projects
 - [duplicate_finder_python (**Python**, **Qt**, **Github Actions**)](https://github.com/BorisTestov/duplicate_finder_python)
 - [duplicate_finder (**C++**, **CMake**, **Doxygen**)](https://github.com/BorisTestov/duplicate_finder)
-- [task_generator (**Python**)](https://github.com/BorisTestov/task_generator)
 
 ## Test tasks
 - [signature_test_task (**C++**, **CMake**)](https://github.com/BorisTestov/signature_test_task)
